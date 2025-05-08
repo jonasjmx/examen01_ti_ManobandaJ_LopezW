@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace FigurasGeomatricasMYLC
 {
-    internal class Program
+    public interface IAreaCalculator_MYLC
     {
-        static void Main(string[] args)
-        {
-
-        }
+        double CalculateArea_APXX();
     }
 }
