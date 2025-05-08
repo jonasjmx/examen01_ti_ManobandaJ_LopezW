@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="IAreaCalculator_MYLC.cs" />
     <Compile Include="IVolumeCalculator_MYLC.cs" />
+    <Compile Include="MetodosAreasFigurasMYLC.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
