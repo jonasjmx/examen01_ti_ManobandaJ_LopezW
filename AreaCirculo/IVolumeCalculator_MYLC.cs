@@ -8,6 +8,7 @@ namespace FigurasGeomatricasMYLC
 {
     public interface IVolumeCalculator_MYLC
     {
+        // Entidad del tipo interfaz para calcular el volumen de las figuras geometricas
         double CalculateVolume_MYLC();
     }  
 }

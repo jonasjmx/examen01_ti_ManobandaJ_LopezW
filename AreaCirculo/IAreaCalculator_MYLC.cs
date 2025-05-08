@@ -8,6 +8,7 @@ namespace FigurasGeomatricasMYLC
 {
     public interface IAreaCalculator_MYLC
     {
+        // Entidad e interfaz para calcular el area
         double CalculateArea_MYLC();
     }
 }

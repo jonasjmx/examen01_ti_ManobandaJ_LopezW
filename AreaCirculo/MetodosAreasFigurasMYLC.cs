@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace AreaCirculo
 {
+    // Metodo para calcular el area del circula utilizando el radio
     public class Circle_MYLC : IAreaCalculator_MYLC
     {
         private double _radius;
@@ -15,6 +16,7 @@ namespace AreaCirculo
         public double CalculateArea_MYLC() => Math.PI * _radius * _radius;
     }
 
+    // Metodo para calcular el area del cuadrado usando uno de sus lados
     public class Square_MYLC : IAreaCalculator_MYLC
     {
         private double _side;
