@@ -8,6 +8,6 @@ namespace FigurasGeomatricasMYLC
 {
     public interface IAreaCalculator_MYLC
     {
-        double CalculateArea_APXX();
+        double CalculateArea_MYLC();
     }
 }

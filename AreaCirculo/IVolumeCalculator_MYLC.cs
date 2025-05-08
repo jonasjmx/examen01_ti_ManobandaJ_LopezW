@@ -8,6 +8,6 @@ namespace FigurasGeomatricasMYLC
 {
     public interface IVolumeCalculator_MYLC
     {
-        double CalculateVolume_APXX();
+        double CalculateVolume_MYLC();
     }
 }
